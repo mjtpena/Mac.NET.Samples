@@ -1,27 +1,6 @@
----
-marp: true
----
-
-# PHINUG 2021.07
-
 **The State of .NET on Mac OS** **<!--fit-->**
 
 ###### by Michael John Peña
-
----
-
-# About Me
-
-![bg right](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fmjtpena%2FbmeQUggVCZ.jpg?alt=media&token=e160606c-49b6-41ef-80c3-1b2e019a770a)
-
-- Director @ [Datachain Consulting][datachain website]
-
-- Microsoft Azure MVP (former Windows Dev Tech MVP)
-
-- Co-Author of Cloud Analytics with Microsoft Azure
-
-- Loves all things: .NET, Blockchain, Web, Mobile, Cloud, ML, IoT, and Data.
-
 ---
 
 # Agenda
