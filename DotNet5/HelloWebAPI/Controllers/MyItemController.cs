@@ -8,7 +8,7 @@ namespace HelloWebAPI.Controllers
     [Route("[controller]")]
     public class MyItemController : ControllerBase
     {
-        private readonly DockerDbContext _context;
+        private DockerDbContext _context;
 
         public MyItemController(DockerDbContext context)
         {
